@@ -16,7 +16,7 @@
 </p>
 
 ## 📚 About
-Welcome to **CyberSecPlayground** — your ultimate destination for hands-on **offensive security**, **bug bounty methodology**, and **vulnerability research**. This repository is curated for ethical hackers, red teamers, and security researchers who want to go deep into:
+Welcome to **CyberSecPlayground** — your ultimate destination for hands-on **offensive security**, **bug bounty methodology**, and **vulnerability research**. The CyberSec Playground is curated for ethical hackers, red teamers, and security researchers who want to go deep into:
 
 
 - 🧠 Advanced Reconnaissance Techniques
@@ -31,8 +31,8 @@ Welcome to **CyberSecPlayground** — your ultimate destination for hands-on **o
 ## 📢 Join the Community
 
 🔗 **Telegram Channel**: [@cybersecplayground](https://t.me/cybersecplayground)  
-🎥 **YouTube**: [CyberSecPlayground Tutorials](https://youtube.com/@cybersecplayground)  
-🌐 **Website**: [cybersecplayground.com](https://cybersecplayground.com) *(coming soon)*  
+🎥 **YouTube**: [CyberSecPlayground Tutorials](https://youtube.com/@cybersecplayground)  *(First video will be dropped soon...)*
+🌐 **Website**: [cybersecplayground.com](https://cybersecplayground.com)   *(blog is under construction...)*
 🐙 **GitHub**: [github.com/cybersecplayground](https://github.com/cybersecplayground)
 
 > Follow us for **daily cybersecurity tips**, **exclusive PoCs**, and **deep dive tutorials**.
