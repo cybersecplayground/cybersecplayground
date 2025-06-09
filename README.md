@@ -31,9 +31,9 @@ Welcome to **CyberSecPlayground** — your ultimate destination for hands-on **o
 ## 📢 Join the Community
 
 🔗 **Telegram Channel**: [@cybersecplayground](https://t.me/cybersecplayground)  
-🎥 **YouTube**: [CyberSecPlayground Tutorials](https://youtube.com/@cybersecplayground)  *(First video will be dropped soon...)*
-🌐 **Website**: [cybersecplayground.com](https://cybersecplayground.com)   *(blog is under construction...)*
-🐙 **GitHub**: [github.com/cybersecplayground](https://github.com/cybersecplayground)
+🎥 **YouTube**: [CyberSecPlayground Tutorials](https://youtube.com/@cybersecplayground)  *(First video will be dropped soon...)*  
+🌐 **Website**: [cybersecplayground.com](https://cybersecplayground.com)   *(blog is under construction...)*  
+🐙 **GitHub**: [github.com/cybersecplayground](https://github.com/cybersecplayground)  
 
 > Follow us for **daily cybersecurity tips**, **exclusive PoCs**, and **deep dive tutorials**.
 
