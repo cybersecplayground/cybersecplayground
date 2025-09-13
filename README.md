@@ -34,6 +34,7 @@ Welcome to **CyberSecPlayground** — your ultimate destination for hands-on **o
 🎥 **YouTube**: [CyberSecPlayground Tutorials](https://youtube.com/@cybersecplayground)  *(First video will be dropped soon...)*  
 🌐 **Website**: [cybersecplayground.com](https://cybersecplayground.com)   *(blog is under construction...)*  
 🐙 **GitHub**: [github.com/cybersecplayground](https://github.com/cybersecplayground)  
+📖 **Medium** [medium.com/@cybersecplayground](https://medium.com/@cybersecplayground)
 
 > Follow us for **daily cybersecurity tips**, **exclusive PoCs**, and **deep dive tutorials**.
 
