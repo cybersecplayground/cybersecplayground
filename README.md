@@ -107,15 +107,15 @@ If you find this repository helpful:
 
 <table align="center">
   <tr>
-    <td align="center" width="25%">
+    <td align="center">
       <h3>⭐</h3>
       <strong>Star it</strong>
     </td>
-    <td align="center" width="25%">
+    <td align="center">
       <h3>🛠️</h3>
       <strong>Fork it</strong>
     </td>
-    <td align="center" width="25%">
+    <td align="center" >
       <h3>🤝</h3>
       <strong>Contribute</strong>
     </td>
@@ -129,7 +129,7 @@ Pull Requests and Issue Reports are **very welcome**. Let's build an elite secur
 ## 🧠 Stay Curious, Stay Secure.
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=650&lines=%22Security+is+not+a+product%2C+but+a+process.%22;%E2%80%94+Bruce+Schneier;%24+exit+--respectfully" alt="Quote" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=650&lines=%22Security+is+not+a+product%2C+but+a+process.%22,+Bruce+Schneier;%24+exit+--respectfully" alt="Quote" />
 </p>
 
 <p align="center">
